@@ -1,0 +1,57 @@
+PODS:
+  - Flutter (1.0.0)
+  - iOSDropDown (0.4.0)
+  - Kingfisher (7.6.2)
+  - Kommunicate (6.9.5):
+    - KommunicateChatUI-iOS-SDK (~> 1.1.2)
+  - kommunicate_flutter (0.0.1):
+    - Flutter
+    - Kommunicate (~> 6.9.2)
+  - KommunicateChatUI-iOS-SDK (1.1.2):
+    - KommunicateChatUI-iOS-SDK/Complete (= 1.1.2)
+  - KommunicateChatUI-iOS-SDK/Complete (1.1.2):
+    - iOSDropDown
+    - Kingfisher (~> 7.6.2)
+    - KommunicateChatUI-iOS-SDK/RichMessageKit
+    - KommunicateCore-iOS-SDK (~> 1.1.0)
+    - SwipeCellKit (~> 2.7.1)
+    - ZendeskChatProvidersSDK (~> 3.0.0)
+  - KommunicateChatUI-iOS-SDK/RichMessageKit (1.1.2)
+  - KommunicateCore-iOS-SDK (1.1.1)
+  - SwipeCellKit (2.7.1)
+  - ZendeskChatProvidersSDK (3.0.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - kommunicate_flutter (from `.symlinks/plugins/kommunicate_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - iOSDropDown
+    - Kingfisher
+    - Kommunicate
+    - KommunicateChatUI-iOS-SDK
+    - KommunicateCore-iOS-SDK
+    - SwipeCellKit
+    - ZendeskChatProvidersSDK
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  kommunicate_flutter:
+    :path: ".symlinks/plugins/kommunicate_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  Kingfisher: 6c5449c6450c5239166510ba04afe374a98afc4f
+  Kommunicate: de26810f671bc4a9841b8901575a73a2cc9a7c4e
+  kommunicate_flutter: 5e8ab3dafa710a43d26b5041e4cabb77a4f30917
+  KommunicateChatUI-iOS-SDK: a257a481800adae0a2f969ec583dcfff54154b2f
+  KommunicateCore-iOS-SDK: d8e2b02da96522708a8d3cb395f9616522e219dc
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  ZendeskChatProvidersSDK: af93e02e2058875f92e6ad86e74ee51203b4079e
+
+PODFILE CHECKSUM: 7be2f5f74864d463a8ad433546ed1de7e0f29aef
+
+COCOAPODS: 1.12.1
