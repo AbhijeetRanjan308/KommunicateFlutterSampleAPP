@@ -1,4 +1,4 @@
-# kommunicate_flutter_sample
+# Kommunoicate Flutter Sample
 
 A new Flutter project.
 
